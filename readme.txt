@@ -4,4 +4,4 @@ a?
 one commit ahead?
 =======
 and simple --feature1
->>>>>>> feature1
+ git branch dex
